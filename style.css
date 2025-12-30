@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 40px;
+  background-color: #f9f9f9;
+}
+
+header {
+  text-align: center;
+}
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+  color: #1877F2; /* Meta blue */
+}
+
+section {
+  margin-bottom: 30px;
+}
